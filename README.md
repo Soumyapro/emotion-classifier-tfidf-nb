@@ -61,6 +61,3 @@ The dataset (`train.txt`) contains short text samples paired with an emotion lab
 ## Notes
 
 This project was built for practice — to get hands-on experience with text preprocessing, feature extraction, and comparing simple classification models for NLP tasks.
-- Try TF-IDF with Logistic Regression
-- Handle class imbalance
-- Experiment with other models (SVM, Random Forest)
